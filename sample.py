@@ -10,5 +10,8 @@ def min(x,y):
 def add3(x,y,z):
     return x+y+z
 
+def add5(v,w,x,y,z):
+    return v+w+x+y+z
+
 def Cry():
     pass
